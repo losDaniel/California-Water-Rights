@@ -4,14 +4,22 @@ except:
     import pip
     pip.main(['install', 'bs4'])    
     from bs4 import BeautifulSoup
+
 try:
     from selenium import webdriver
 except:
     import pip
     pip.main(['install', 'selenium'])  
     from selenium import webdriver 
-import os, re 
-import pandas as pd 
+
+try:
+    import pandas as pd 
+except:
+    import pip
+    pip.main(['install', 'pandas'])  
+    import pandas as pd 
+
+import os, re
 import bear_necessities as bn
 
 try:
