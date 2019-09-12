@@ -12,6 +12,10 @@ There is an accompanying GIS component to this database that shows the bodies of
 
 ![Cali_Bodies_of_Water_Image](CaliforniaBodiesOfWater.PNG)
 
+### Database Directory 
+
+The database directory contains `.csv` versions of each type of dataset as well as `.pickle` files for the larger datasets (for faster loading). The **dictionary** folder contains .csv files listing every field and example values for each of the datasets. 
+
 *For more additional documentation regarding the organization of the data please refer to the* **Database Documentation - GIS Resources.pdf** *and* **Database Documentation - Water Rights.pdf** *documents.*
 
 ## Notebook Walkthrough
@@ -24,7 +28,8 @@ This repository uses [Git Large File Storage or LFS](https://git-lfs.github.com/
 
 ## Dependencies 
 
-Scripts will self-install non-native dependencies when executed using `pip`. These are: 
 * pandas
 * selenium
 * BeautifulSoup
+
+Scripts will self-install non-native dependencies when executed using `pip`.
