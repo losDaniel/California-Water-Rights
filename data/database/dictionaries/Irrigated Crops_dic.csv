@@ -1,0 +1,6 @@
+,Crop,Multiple Crops,Area Irrigated (Acres),Primary Irrigation Method,ApplID,Report_ID
+0,Cannabis,No,0.3673094582185490,"Low-volume (example: micro-sprinkler, drip)",S026985,http://ciwqs.waterboards.ca.gov/ciwqs/ewrims_online_reporting/viewReport.do?formId=357810
+1,Grapes,Yes,52,,S022198,http://ciwqs.waterboards.ca.gov/ciwqs/ewrims_online_reporting/viewReport.do?formId=366116
+2,Vegetables, ,0.23,Sprinkler,S027071,http://ciwqs.waterboards.ca.gov/ciwqs/ewrims_online_reporting/viewReport.do?formId=362371
+3,Other, ,0.01,Surface (example: flood),S017601,http://ciwqs.waterboards.ca.gov/ciwqs/ewrims_online_reporting/viewReport.do?formId=381677
+4,Pasture, ,193,Sub-surface,S017607,http://ciwqs.waterboards.ca.gov/ciwqs/ewrims_online_reporting/viewReport.do?formId=381675

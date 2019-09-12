@@ -1,0 +1,6 @@
+,Reservoir name,Spilled this year,Feet below spillway at maximum storage,Completely emptied,Feet below spillway at minimum storage,Method used to measure water level,ApplID,Report_ID
+0,Bowl Dam,No,1,Yes,,visual estimate,A028597,http://ciwqs.waterboards.ca.gov/ciwqs/ewrims_online_reporting/viewReport.do?formId=235900
+1,bowl dam,Yes,6,No,10,visual,A031231,http://ciwqs.waterboards.ca.gov/ciwqs/ewrims_online_reporting/viewReport.do?formId=208086
+2,Craemer Reservoir,,3,,0,estimate,A028334,http://ciwqs.waterboards.ca.gov/ciwqs/ewrims_online_reporting/viewReport.do?formId=157312
+3,craemer reservoir, ,5, ,54.30,stick,A028756,http://ciwqs.waterboards.ca.gov/ciwqs/ewrims_online_reporting/viewReport.do?formId=113033
+4,creamer reservoir, ,4, ,56.12,,A028042,http://ciwqs.waterboards.ca.gov/ciwqs/ewrims_online_reporting/viewReport.do?formId=85824

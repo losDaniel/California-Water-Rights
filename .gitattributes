@@ -1,0 +1,10 @@
+data/database/REP_Amount_of_Water_Diverted_and_Used.csv filter=lfs diff=lfs merge=lfs -text
+data/database/REP_Conservation_of_Water.csv filter=lfs diff=lfs merge=lfs -text
+data/database/REP_Additional_Remarks.csv filter=lfs diff=lfs merge=lfs -text
+data/database/REP_Maximum_Rate_of_Diversion_for_each_Month_and_Amount_of_Water_Diverted_and_Used.csv filter=lfs diff=lfs merge=lfs -text
+data/database/REP_Maximum_Rate_of_Diversion_for_each_Month.csv filter=lfs diff=lfs merge=lfs -text
+data/database/REP_Contact_Information_of_the_Person_Submitting_the_Form.csv filter=lfs diff=lfs merge=lfs -text
+data/database/REP_Purpose_of_Use.csv filter=lfs diff=lfs merge=lfs -text
+data/database/REP_Special_Summary.csv filter=lfs diff=lfs merge=lfs -text
+data/database/REP_Water_Diversion_Measurement.csv filter=lfs diff=lfs merge=lfs -text
+data/database/REP_Water_Supply_Contracts.csv filter=lfs diff=lfs merge=lfs -text
