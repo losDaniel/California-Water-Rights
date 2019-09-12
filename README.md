@@ -21,3 +21,10 @@ The `ewrims_scrape.ipynb` notebook provides a walkthrough of the methods in `ewm
 ## Large Files
 
 This repository uses [Git Large File Storage or LFS](https://git-lfs.github.com/) to store large files. 
+
+## Dependencies 
+
+Scripts will self-install non-native dependencies when executed using `pip`. These are: 
+* pandas
+* selenium
+* BeautifulSoup
