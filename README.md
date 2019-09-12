@@ -12,7 +12,7 @@ There is an accompanying GIS component to this database that shows the bodies of
 
 ![Cali_Bodies_of_Water_Image](CaliforniaBodiesOfWater.PNG)
 
-*For more additional documentation regarding the organization of the data please refer to the **Database Documentation - *.pdf** documents*
+*For more additional documentation regarding the organization of the data please refer to the* **Database Documentation - GIS Resources.pdf** *and* **Database Documentation - Water Rights.pdf** *documents.*
 
 ## Notebook Walkthrough
 
