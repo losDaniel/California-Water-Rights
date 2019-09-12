@@ -28,8 +28,8 @@ This repository uses [Git Large File Storage or LFS](https://git-lfs.github.com/
 
 ## Dependencies 
 
-* pandas
-* selenium
-* BeautifulSoup
+`pip install pandas`<br><br>
+`pip install selenium`<br><br>
+`pip install bs4` # BeautifulSoup<br><br>
 
 Scripts will self-install non-native dependencies when executed using `pip`.
